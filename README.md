@@ -1,1 +1,15 @@
-# IntelliWell
+# IntelliWell – informačný systém pre inteligentné wellness centrum NikaWell
+
+IntelliWell je interný informačný systém, ktorý v jednom wellness centre NikaWell centralizuje plánovanie služieb a diaľkové riadenie inteligentných zariadení. Vytvára prepojené digitálne prostredie, v ktorom recepčná, manažér a saunový majster môžu efektívne spolupracovať, aby zabezpečili plynulý chod služieb. Systém poskytuje jednotné rozhranie na konfiguráciu a monitorovanie inteligentnej sauny, vírivky, ozvučenia a osvetlenia.
+
+Recepčná využíva IntelliWell na správu návštev. Systém umožňuje vytvárať rezervácie – recepčná zaznamená objednaný termín na základe požiadavky prijatej telefonicky, zaslanej e-mailom alebo SMS, prípadne oznámenej osobne na recepcii a zadá všetky potrebné údaje o plánovanej návšteve. Ak ide o nového klienta, recepčná vytvorí v systéme jeho profil na základe poskytnutých údajov (nadiktovaných telefonicky, zaslaných e-mailom alebo SMS, prípadne nadiktovaných osobne alebo uvedených v papierovom formulári).
+
+Keď sa blíži začiatok rezervovaného termínu, recepčná cez systém zapne a nastaví zariadenia podľa požiadaviek rezervácie. IntelliWell na diaľku ovláda všetky prvky: zapne saunu a nastaví požadovanú teplotu, spustí vírivku (vrátane trysiek), relaxačnú hudbu a prispôsobí osvetlenie. Postupy prebiehajú v definovanom poradí a čase, aby bolo prostredie pripravené v okamihu príchodu klienta.
+
+Počas návštevy recepčná priebežne monitoruje stav zariadení a podmienky prostredia prostredníctvom IntelliWell. Systém zobrazuje aktuálne hodnoty (teploty, intenzitu osvetlenia, hlasitosť hudby a pod.) a umožňuje recepčnej manuálne zasahovať do nastavení. Ak klient požiada o zmenu – či už ide o vyššiu teplotu vírivky, inú hudbu alebo intenzitu svetla – recepčná ju okamžite vykoná cez systém. Recepčná má prehľad aj o odchýlkach, takže pri zistení problému (napríklad nedostatočná teplota) vie včas zasiahnuť a udržať požadovaný komfort prostredia.
+
+Manažér wellness centra má v systéme k dispozícii prehľadové a kontrolné funkcie. Systém generuje prehľady o zásahoch do nastavení. Manažér má k dispozícii historický záznam zmien – vidí, aké úpravy recepčná vykonala, kedy a ako upravila parametre zariadení. Tieto údaje umožňujú analyzovať efektivitu služieb, identifikovať problémy a dohliadať na dodržiavanie štandardov.
+
+Súčasťou systému je aj možnosť prideliť k rezervácii saunového majstra, ak si to klient želá. Recepčná priradí k rezervácii saunového majstra a systém ho o tom informuje. Saunový majster vo svojom rozhraní vidí priradené rezervácie a môže ich potvrdiť alebo odmietnuť. IntelliWell koordinuje priradenie saunového majstra k rezerváciám a zabezpečí realizáciu doplnkovej služby po jeho potvrdení.
+
+IntelliWell prenáša koncepty inteligentnej domácnosti do riadenia a dohľadu nad wellness prevádzkou. Výsledkom je systém, ktorý zefektívňuje prácu recepcie, umožňuje komfortné diaľkové ovládanie prostredia, zabezpečuje dohľad nad kvalitou služieb a generuje podklady pre operatívne aj strategické rozhodnutia vedenia. Moje riešenie uľahčuje prácu personálu.
